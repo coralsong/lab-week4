@@ -1,6 +1,17 @@
 body {
-    background-color: rgb(96, 167, 45);
+    background-color: rgb(255, 46, 147);
     font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    padding-bottom: 3rem;
+
+}
+
+h1 {
+    font-size: 6em;
+    justify-self: center;
+    font-stretch: ultra-condensed;
+    letter-spacing: -0.4rem;
+    font-weight: 100;
 
 }
 
@@ -8,6 +19,5 @@ h2 {
     font-size: 4em;
     padding: 2rem;
     justify-self: center;
-    
 
 }

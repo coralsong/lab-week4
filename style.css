@@ -4,6 +4,10 @@ body {
 
 }
 
-h1 {
+h2 {
+    font-size: 4em;
+    padding: 2rem;
+    justify-self: center;
     
+
 }
